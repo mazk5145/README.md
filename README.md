@@ -23,16 +23,3 @@
 [<img align="left" alt="Node.js" width="22px" src="https://w7.pngwing.com/pngs/322/725/png-transparent-node-js-javascript-npm-express-js-sharp-miscellaneous-angle-text-thumbnail.png" />][node]
 [<img align="left" alt="MySQL" width="22px" src="https://banner2.cleanpng.com/20190129/qlx/kisspng-logo-mysql-organization-brand-database-mysql-development-5c507af1d46325.50972441154877822587.jpg" />][sql]
 
-<br />
-<br />
-
-[website]: https://www.xashop.eu
-[youtube]: https://www.youtube.com/channel/UCxe3SSY8zaazDuqmfwEcbrQ
-[twitch]: https://www.twitch.tv/mazkcsgo
-[Discord]: https://dsc.gg/poseidonfivem
-[vs]: https://code.visualstudio.com/
-[vs19]: https://visualstudio.microsoft.com/downloads/
-[js]: https://www.javascript.com/
-[node]: https://nodejs.org/en/
-[sql]: https://www.mysql.com/
-
