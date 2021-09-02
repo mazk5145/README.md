@@ -7,12 +7,6 @@
 - 🙃 I'm that kinda person that like to help someone in need.
 - 😴 2021 Goals: get more developement friends.
 
-### Connect with me
-
-[<img align="left" alt="Website" width="22px" src="https://pbs.twimg.com/profile_images/1162451996387004417/a0RB0SKQ_400x400.jpg" />][website]
-[<img align="left" alt="Youtube" width="22px" src="https://w7.pngwing.com/pngs/936/468/png-transparent-youtube-logo-youtube-logo-computer-icons-subscribe-angle-rectangle-airplane.png" />][youtube]
-[<img align="left" alt="Twitch" width="22px" src="https://toppng.com/uploads/preview/twitch-twitch-tv-black-twitch-logo-transparent-11563015897z9bed1nax1.png" />][twitch]
-[<img align="left" alt="Discord" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" />][Discord]
 
 <br />
 
